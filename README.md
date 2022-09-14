@@ -1,7 +1,7 @@
 ## Hello, my name is Danila, I'am beginner QA engineer! ✌
 
 I like:
-- 💻 computer since
+- 💻 computer science
 - 🎮 games
 - 🎬 movies
 - 🎧 music
